@@ -25,17 +25,6 @@ This diagram shows the overall class structure for the project:
 <img src="Diagrams.png" width="640" height="360" />
 
 
-## Cloning
-
-When cloning this project, be sure to use the `--recurse-submodules` flag. Using HTTPS:
-```
-git clone https://github.com/udacity/CppND-Route-Planning-Project.git --recurse-submodules
-```
-or with SSH:
-```
-git clone git@github.com:udacity/CppND-Route-Planning-Project.git --recurse-submodules
-```
-
 ## Compiling and Running
 
 ### Compiling
@@ -58,3 +47,14 @@ Or to specify a map file:
 ./OSM_A_star_search -f ../<your_osm_file.osm>
 ```
 
+
+## Cloning
+
+When cloning this project, be sure to use the `--recurse-submodules` flag. Using HTTPS:
+```
+git clone https://github.com/udacity/CppND-Route-Planning-Project.git --recurse-submodules
+```
+or with SSH:
+```
+git clone git@github.com:udacity/CppND-Route-Planning-Project.git --recurse-submodules
+```
