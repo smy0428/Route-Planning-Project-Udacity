@@ -18,7 +18,7 @@ route_model.h and route_model.cpp
 route_planner.h and route_planner.cpp
 ```
 
-## Class Structure Diagram
+## Project Structure Diagram
 
 This diagram shows the overall class structure for the project:
 
